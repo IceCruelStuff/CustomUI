@@ -1,0 +1,12 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/thebigsmileXD/customui
+projects:
+  customui:
+    type: library
+    model: virion
+    path: customui
+  customuitest:
+    path: examples/customuitest
+    libs:
+    - src: thebigsmilexd/customui/customui
+      version: "^3.0.0"
+...
