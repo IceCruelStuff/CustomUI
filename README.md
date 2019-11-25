@@ -1,5 +1,5 @@
 # CustomUI
-Plugin is by [thebigsmileXD](https://github.com/thebigsmileXD). Visit original page [here](https://github.com/thebigsmileXD/customui)
+Plugin is by [thebigsmileXD](https://github.com/thebigsmileXD). Visit original page [here.](https://github.com/thebigsmileXD/customui)
 Library status + Virion download: [![Poggit-CI](https://poggit.pmmp.io/ci.badge/thebigsmileXD/customui/customui)](https://poggit.pmmp.io/ci/thebigsmileXD/customui/customui)
 Example Plugin Status: [![Poggit-CI](https://poggit.pmmp.io/ci.badge/thebigsmileXD/customui/customuitest)](https://poggit.pmmp.io/ci/thebigsmileXD/customui/customuitest)
 
